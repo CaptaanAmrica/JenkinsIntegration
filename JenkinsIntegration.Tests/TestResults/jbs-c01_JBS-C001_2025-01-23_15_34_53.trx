@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="026a311f-a1b3-406e-b4ed-7481947d9027" name="jbs-c01@JBS-C001 2025-01-23 15:34:53" runUser="Jbs-C001\jbs-c01" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-01-23T15:34:53.8420124+05:30" queuing="2025-01-23T15:34:53.8420127+05:30" start="2025-01-23T15:34:53.3739314+05:30" finish="2025-01-23T15:34:53.8431550+05:30" />
+  <TestSettings name="default" id="6bf742f3-8195-4da7-857a-e7a66f225f46">
+    <Deployment runDeploymentRoot="jbs-c01_JBS-C001_2025-01-23_15_34_53" />
+  </TestSettings>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="0" executed="0" passed="0" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>You must install or update .NET to run this application.&#xD;
+App: C:\Users\jbs-c01\.nuget\packages\microsoft.testplatform.testhost\15.9.0\lib\netstandard1.5\testhost.dll&#xD;
+Architecture: x64&#xD;
+Framework: 'Microsoft.NETCore.App', version '2.1.0' (x64)&#xD;
+.NET location: C:\Program Files\dotnet\&#xD;
+The following frameworks were found:&#xD;
+  6.0.36 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+  7.0.20 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+  8.0.12 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+  9.0.1 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+Learn more:&#xD;
+https://aka.ms/dotnet/app-launch-failed&#xD;
+To install missing framework, download:&#xD;
+https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&amp;framework_version=2.1.0&amp;arch=x64&amp;rid=win-x64&amp;os=win10&#xD;
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="JBS-C001" outcome="Error" timestamp="2025-01-23T15:34:53.7695664+05:30">
+        <Text>Testhost process for source(s) 'E:\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.dll' exited with error: You must install or update .NET to run this application.&#xD;
+App: C:\Users\jbs-c01\.nuget\packages\microsoft.testplatform.testhost\15.9.0\lib\netstandard1.5\testhost.dll&#xD;
+Architecture: x64&#xD;
+Framework: 'Microsoft.NETCore.App', version '2.1.0' (x64)&#xD;
+.NET location: C:\Program Files\dotnet\&#xD;
+The following frameworks were found:&#xD;
+  6.0.36 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+  7.0.20 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+  8.0.12 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+  9.0.1 at [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]&#xD;
+Learn more:&#xD;
+https://aka.ms/dotnet/app-launch-failed&#xD;
+To install missing framework, download:&#xD;
+https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&amp;framework_version=2.1.0&amp;arch=x64&amp;rid=win-x64&amp;os=win10&#xD;
+. Please check the diagnostic logs for more information.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
