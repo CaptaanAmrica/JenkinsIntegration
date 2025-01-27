@@ -16,3 +16,14 @@ E:\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\Jenkin
 E:\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
 E:\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
 E:\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.sourcelink.json
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
