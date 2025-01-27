@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = JenkinsIntegration.Services
-build_property.ProjectDir = E:\JenkinsIntegration\JenkinsIntegration.Services\
+build_property.ProjectDir = C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

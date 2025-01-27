@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = JenkinsIntegration.Tests
-build_property.ProjectDir = E:\JenkinsIntegration\JenkinsIntegration.Tests\
+build_property.ProjectDir = C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
